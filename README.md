@@ -2,6 +2,6 @@
 
 I use this repo to upload my progress on learning Backend frameworks. I will update this as I go further on my software development journey!
 
-# NodeJS and MongoDB
+# NodeJS, ExpressJS and MongoDB
 
-I learned how to use NodeJS and MongoDB [here](https://github.com/albertarielw/Learning-Backend/tree/main/NodeJS)
+I learned how to use NodeJS, ExpressJS and MongoDB [here](https://github.com/albertarielw/Learning-Backend/tree/main/NodeJS)
